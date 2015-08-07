@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<translations>
+    <!-- 
+        ###### Main Page Content ######
+    -->
+    <translation id="cont-quote">
+        <en>"As the chimera opened it's mouth, terrible gusts of flame rolled forth, engulfing all who stood before it"</en>
+        <es>"La quimera abrió sus fauces y su aliento salió a terribles bocanadas de llamas ardientes"</es>
+    </translation>
+    <translation id="cont-about-tab">
+        <en>ABOUT</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-solutions-tab">
+        <en>SOLUTIONS</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-products-tab">
+        <en>PRODUCTS</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-services-tab">
+        <en>SERVICES</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-contact-tab">
+        <en>CONTACT</en>
+        <es>...</es>
+    </translation>
+    
+    <!-- 
+        ###### About Tab Content ######
+    -->
+    <translation id="cont-about-title">
+        <en>ABOUT QUIMERA</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-about-header1">
+        <en>WHO WE ARE ?</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-about-text1">
+        <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque.</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-about-header2">
+        <en>Our Aim</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-about-text2">
+        <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque, tellus ligula
+                    ullamcorper urna, sed luctus velit lacus sit amet sem.</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-about-header3">
+        <en>Our Values</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-about-text3">
+        <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque, tellus ligula
+                    ullamcorper urna, sed luctus velit lacus sit amet sem.</en>
+        <es>...</es>
+    </translation>
+
+    <!-- 
+        ###### Service Tab Content ######
+    -->
+   <translation id="cont-services-title">
+        <en>OUR SERVICES</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-services-header1">
+        <en>WHAT WE OFFER ?</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-services-text1">
+        <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque.</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-services-header2">
+        <en>Responsive Design</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-services-text2">
+        <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque, tellus ligula
+                    ullamcorper urna, sed luctus velit lacus sit amet sem.</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-services-header3">
+        <en>Unique Design</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-services-text3">
+        <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque, tellus ligula
+                    ullamcorper urna, sed luctus velit lacus sit amet sem.</en>
+        <es>...</es>
+    </translation>
+   
+    <!-- 
+        ###### Contact Tab Content ######
+    -->
+    <translation id="cont-contact-title">
+        <en>CONTACT US</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-contact-header1">
+        <en>REACH US</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-contact-text1">
+        <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque.</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-contact-header2">
+        <en>Our Location</en>
+        <es></es>
+    </translation>
+    <translation id="cont-contact-text2">
+        <en>Calle 40c Sur #43-12, Medellín, Colombia</en>
+        <es></es>
+    </translation>
+    <translation id="cont-contact-text3">
+        <en>Call: +42-78-0090-00.</en>
+        <es></es>
+    </translation>
+    
+</translations>

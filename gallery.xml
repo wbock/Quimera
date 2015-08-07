@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gallery>
+	<solutions>
+		<solution id="solution1">
+			<name>Estante</name>
+			<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque.</description>
+			<thumbnail>./img/thumbs/preview1.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Moderna</color>
+					<image>./img/large/preview1.jpg</image>
+				</version>
+			</versions>
+		</solution>
+		<solution id="solution2">
+			<name>Estante</name>
+			<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque.</description>
+			<thumbnail>./img/thumbs/preview2.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Natural</color>
+					<image>./img/large/preview2.jpg</image>
+				</version>
+			</versions>
+		</solution>
+		<solution id="solution3">
+			<name>Bar</name>
+			<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque.</description>
+			<thumbnail>./img/thumbs/preview3.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Completo</color>
+					<image>./img/large/preview3.jpg</image>
+				</version>
+			</versions>
+		</solution>
+	</solutions>
+	<products>
+		<product id="product1">
+			<name>Cactus</name>
+			<description></description>
+			<thumbnail>./img/thumbs/cactus bronce.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Bronce</color>
+					<image>./img/large/cactus bronce.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product2">
+			<name>Celula</name>
+			<description></description>
+			<thumbnail>./img/thumbs/celula.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Natural</color>
+					<image>./img/large/Celula.jpg</image>
+				</version>
+				<version>
+					<color>Redonda</color>
+					<image>./img/large/Celula redonda.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product3">
+			<name>Colgantes</name>
+			<description></description>
+			<thumbnail>./img/thumbs/Colgantes.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Acero</color>
+					<image>./img/large/Colgantes.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product4">
+			<name>Cruda</name>
+			<description></description>
+			<thumbnail>./img/thumbs/cruda.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Acero</color>
+					<image>./img/large/cruda.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product5">
+			<name>Esbelta</name>
+			<description></description>
+			<thumbnail>./img/thumbs/Esbelta.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Acero</color>
+					<image>./img/large/Esbelta.jpg</image>
+				</version>
+				<version>
+					<color>Bronce</color>
+					<image>./img/large/Esbelta Bronce.jpg</image>
+				</version>
+				<version>
+					<color>Cobre</color>
+					<image>./img/large/Esbelta cobre.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product6">
+			<name>Gargola</name>
+			<description></description>
+			<thumbnail>./img/thumbs/Gargola.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Acero</color>
+					<image>./img/large/Gargola.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product7">
+			<name>Paracelusus</name>
+			<description></description>
+			<thumbnail>./img/thumbs/Paracelusus.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Acero</color>
+					<image>./img/large/Paracelusus.jpg</image>
+				</version>
+				<version>
+					<color>Bronce</color>
+					<image>./img/large/paracelsus bronce.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product8">
+			<name>Perchero</name>
+			<description></description>
+			<thumbnail>./img/thumbs/perchero.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Acero</color>
+					<image>./img/large/perchero.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product9">
+			<name>Rodaja</name>
+			<description></description>
+			<thumbnail>./img/thumbs/Rodaja.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Acero</color>
+					<image>./img/large/Rodaja.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product10">
+			<name>Triangulo</name>
+			<description></description>
+			<thumbnail>./img/thumbs/Triangulo cobre.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Cobre</color>
+					<image>./img/large/Triangulo cobre.jpg</image>
+				</version>
+			</versions>
+		</product>
+		<product id="product11">
+			<name>Tripode</name>
+			<description></description>
+			<thumbnail>./img/thumbs/Tripode cobre.jpg</thumbnail>
+			<versions>
+				<version>
+					<color>Cobre</color>
+					<image>./img/large/Tripode cobre.jpg</image>
+				</version>
+			</versions>
+		</product>
+	</products>
+</gallery>
