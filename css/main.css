@@ -227,10 +227,7 @@ body {
 @media (min-width: 768px) {
 
   /* Handle the widths */
-  .social {
-    padding: 1%;
-    width: 4%;
-  }
+
   .footer {
     height: 6%;
   }
