@@ -3,17 +3,28 @@
  
 $(function() {
  
-    // Here we set the language
-    // we want to display:
-
-    var language = localStorage.getItem("language");
-    if(language == null) {
-        language = "es";
+    /*
+     * Magic language code!!!
+     * Checks URL params for valid language, then local storage, then browser
+     * -> Saves old language setting and reverts if user tries to play around
+     * -> Uses to espanol as default
+     */
+    var language = $.query.get('lang');
+    if(language == null || (language != "es" && language != "en")) {
+        language = localStorage.getItem("language");
+        if(language == null || (language != "es" && language != "en")) {
+            language = navigator.language.substr(0,2);
+            if(language == null || (language != "es" && language != "en")) {
+                language = "es";
+            }
+        }
+        document.location.href = "" + $.query.set("lang",language);
     }
+    localStorage.setItem("language", language);
+    // End magic language code
     
     $(".button").click(function(){
-        language = this.id;
-        localStorage.setItem("language", language);
+        alert("delete this item");
     });
  
     // In order to get the translations,
