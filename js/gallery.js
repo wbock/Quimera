@@ -5,13 +5,6 @@
 
 /// <reference path="../typings/jquery/jquery.d.ts"/>
 
-jQuery(document).ready(function () {
-        $(".nav a, .navbar-header a").click(function(event) {
-                // check if window is small enough so dropdown is created
-               jQuery(".navbar-collapse").removeClass("in").addClass("collapse");
-        });
-});
-
 $(function () {
 	
 	// Load gallery xml file
