@@ -22,6 +22,11 @@
        url('../fonts/Gotham-Light.otf')  format('truetype'), /* Safari, Android, iOS */
 }
 
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 80%;
+    margin: 0 auto;
+}
+
 /* Links */
 a,
 a:focus,
