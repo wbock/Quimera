@@ -135,6 +135,10 @@ body {
   width: 80%;
 }
 
+#products {
+  margin-top: 15%;
+}
+
 /*
  * Gallery
  */

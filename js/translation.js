@@ -1,3 +1,8 @@
+/*
+ * Load localized translations
+ */
+
+
 $(function() {
     /*
      * Magic language code!!!
