@@ -208,6 +208,11 @@ body {
    background-color: #000;
  }
  
+ .portrait {
+   width: 80%;
+   border-radius: 50% 50% 0%  50%;
+ }
+ 
  .modal-footer {
    background-color: #222;
  }

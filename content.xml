@@ -53,12 +53,35 @@
         <es>...</es>
     </translation>
     <translation id="cont-about-header3">
-        <en>Our Values</en>
-        <es>...</es>
+        <en></en>
+        <es></es>
     </translation>
     <translation id="cont-about-text3">
-        <en>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque volutpat, diam in accumsan scelerisque, tellus ligula
-                    ullamcorper urna, sed luctus velit lacus sit amet sem.</en>
+        <en></en>
+        <es></es>
+    </translation>
+    <translation id="cont-about-teamName1">
+        <en>Andrés Solo</en>
+        <es>Andrés Solo</es>
+    </translation>
+    <translation id="cont-about-teamTitle1">
+        <en>Designer Extraordinaire</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-about-teamName2">
+        <en>Pedro Pablo</en>
+        <es>Pedro Pablo</es>
+    </translation>
+    <translation id="cont-about-teamTitle2">
+        <en>Designer Extraordinaire</en>
+        <es>...</es>
+    </translation>
+    <translation id="cont-about-teamName3">
+        <en>Don Juan</en>
+        <es>Don Juan</es>
+    </translation>
+    <translation id="cont-about-teamTitle3">
+        <en>Designer Extraordinaire</en>
         <es>...</es>
     </translation>
     <translation id="cont-about-follow">
